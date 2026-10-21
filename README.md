@@ -23,7 +23,7 @@
 - 🌾 **Técnico Agrícola em Agropecuária** formado pela **Escola Agrotécnica Federal de Muzambinho** (2001).
 - 🏛️ **13 anos de experiência em Extensão Rural na EMATER/MG (2009–2022)**, atuando diretamente com agricultura familiar, cafeicultura, cooperativismo e políticas públicas no campo.
 - 👨‍🏫 **Estagiário Docente no CEFET-MG** (Campus Varginha, 2024–2025) no Curso Técnico em Informática, atuando com suporte pedagógico e monitorias em **C++** e **Python**.
-- 🚀 **Cofundador da Louzada & Pereira (fundada em 2023 com Matheus Almeida), empresa voltada à produção, captação e edição audiovisual. Como parte dessa estrutura, lidero a PereiraLabs, divisão especializada em tecnologia e inteligência artificial, focada em automações corporativas com n8n, inteligência artificial aplicada, aplicações web/PWAs e desenvolvimento de software sob demanda.**
+- 🚀 **Cofundador da Louzada & Pereira** (fundada em 2023 com Matheus Almeida), empresa voltada à produção, captação e edição audiovisual. Como parte dessa estrutura, lidero a PereiraLabs, divisão especializada em tecnologia e inteligência artificial, focada em automações corporativas com n8n, inteligência artificial aplicada, aplicações web/PWAs e desenvolvimento de software sob demanda.
 
 ---
 
